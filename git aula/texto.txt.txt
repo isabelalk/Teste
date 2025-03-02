@@ -1,0 +1,3 @@
+O comando clear verifica a variável de ambiente TERM para saber o tipo de terminal. 
+Atalho para limpar a tela do terminal
+No Linux, é possível usar o atalho Ctrl + L para limpar a tela do terminal. 
